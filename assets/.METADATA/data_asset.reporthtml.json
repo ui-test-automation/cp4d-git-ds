@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "report.html",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-05-04T17:10:11Z",
+    "created": 1620148211475,
+    "asset_id": "data_asset.reporthtml",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/html"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "report.html",
+      "mime": "text/html",
+      "object_key": "data_asset/report.html",
+      "object_key_is_read_only": true,
+      "created_at": "2021-05-04T17:10:12Z",
+      "id": "7b05bb61-f993-43ba-9832-91d6f7e812c1",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

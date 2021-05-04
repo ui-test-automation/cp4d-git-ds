@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "Cloud X",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "created_at": "2021-05-04T17:29:18Z",
+    "created": 1620149358802,
+    "asset_id": "connection.Cloud",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "44e904b5-0cb2-4d8e-a5c0-c48bc3e24fdd",
+      "context": "source,target",
+      "properties": {
+        "database": "test-db",
+        "ssl": "true",
+        "username": "cd83dab0-0b1d-41df-94ea-50d97e8c8817-bluemix",
+        "password": "{wdpaes256}PxuZ+qNkBXt7S1bkk/EXh1CGkpqGAL5rrAzDStAtc4SPRcCHiUruycf+MDki9bkTH3n8zDxYdOSslhB2r84bLHLMmZ51aQCWuo4uHiDrJONz4iBkPGgWb/+ZGl4zCYuR"
+      },
+      "flags": []
+    }
+  },
+  "attachments": []
+}
